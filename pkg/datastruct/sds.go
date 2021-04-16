@@ -1,5 +1,10 @@
 package datastruct
 
+/*
+Use golang's data struct 'string' to replace sds.
+So, following code is useless temporarily.
+*/
+
 const (
 	SDSMaxPrealloc = 1024 * 1024 // 最大预分配长度 1M
 )
